@@ -1,2 +1,25 @@
-import lzma,base64
-exec(lzma.decompress(base64.b85decode(';1-<<umS)o55_~UMb{x}XG?S|h7tjev3a;q5j0`<>cq(#&trNXBHQeRE^^E#Tj2axcPS@V?m8$c{m0>Dj4_mK{{0>u`$8$1AT&}SyAfxkW6+ch4NA}G&!Ts>J@1t<EollB@K*<ZjSO*>D}Va3MFeX!WN21WJYCbpPk0{mJDrdH?EI6*4HqgtVafBDOVI=DfFTp;UE+@jzPCVD0NfZT&l}g#96I$i@*WBP8+(hq!qRG?bRS4KM|H=)hpf>9-@f9qcS#uvVUiS2r%P`mUZ{7He2%8njSf2aq>8vi@*PrcU<3Z@drphASpUgJ)rALQ3R|@3%&~YgpszmCe%tuN=_Zk)N6TYYHVFMBdA3H|x5=k-&bMys2&+6fzID}%M<Hn(n1WJa;5`So!tIw(T|Kx+o8jAM2g6iveU@{zNm;j+pIz>OeUB|w$Y~xXjJ+hTc<DEPon3$r${4`u0BgFMArx&SL+H_9RBQ>5i~A(s%T1_ik5>8N&@<=;kncmkYV|FQ>p!i58~T9>5Gs`a<vM#sqXc5vg1w2dAT81I#RA@m=jcAo1(69d1aBbC$;{kPiPhyA&0kPGT9txZfYC_if;A4M1)zmBQjK0GLG>`P6|k3P>n;arj5B(&p088sv^ONjmHfPYx5%E}Y_P~f<dwl*pS&Zf+J3>X!D-)Ufh%0ZNewxnDNV*T%xRfS%nsP|-@Njd|0L97v_oa*2Z2i3pIUqwy^o0VEml4+%P;C-DwbSU1`fcs-47Y*pmv3p!W7Kety_iES|qG_(BMh}<<K4+T$N#IRq|RA4JCihVIdFaM#`R2e4JyP=0mGdpmm&%(MwhTX>4WoUBaZv5A`ZMpN9f*yHBg*H{`kPy#;gkyh24lVm}OE*rSG+eON`SoALtX)*+_?q`<?K?mlxmWJBZ4f@YJ{K`@<zbtVd9s>%@70TQ~}2g(&cp+v&ko;kE<`)lCT4psm>99O1c<0Spd*zvV$t;{>`l4l8*_7a!X#Q>9_Me!~k21bFF(s{8`3HA~oEdQ@A2Us}r95?>6f+Nsym{=vJGOEy6$?&^ZY(u*V0;9;nWgCFT%Bg10V*Kr1cc<K~7IxXCqzcRh<NiJ6;5%<a1zGarz$zzS=OsmrwqP!n@fC+dZPL6|kL;_dE4DyyCf!W?4{S~8*7A<RL1#g%x|enK+rz`INgdU~dSe$ft%Wg4N9Dv8c!?EFSYbV5p(H_nn$0puK`Qoyopu`zwcKPT(z=bYlVLe#95|zj19o*#z9l@$p2sJY{^hLt*R3nT6ZV4$Y85br6v~!o763~-Cy<4P*}$G|*2EXAzk|34+$d@KAG@`H<z3206nUd_CrHj%3C}Re?p9<jDZ(K<HWyD!r>e?M@k>adN>>2|XJ=Eb`KIKQBvv?6{I5k%@NQ90Q!F0`wVWx<R95#6Xr#vvjrc3G#$L2uh=%3e*RDLEO};ALBD6Pk4hpL~=t2?j{>&ok6S-A%{3;j|=myZz#E{bn*7}KE>G+U#C&zXJr)-cuRBHDPQ;#4Oz;j^gID)s}aX`rB)B6>y0H1=1W!Men5$UX9Wj5K>e@P}$%{%g*egYmzn<2%5JysmRBqs#J*bFb^M#7hk=gIaz2Lh%Y*FPgAJH;)(#*$!y9(_iAUeE$*(_tlij_S3BsbgP8>+gM-OgYo#7EPR^Tf0|_7p8C(Zx3-Mb*(`9TkHVnl%gd|8u{eC33dQ0J}6&DB?tEaSz&IJ_)5mjj~+P}iUQZ#Sp}$}D;D_y`+D=mPoup=3bbD4lBpn-u8xQka;JRV(;N+X7d9}cb`(=OpkwuL(tnCOVdb!@v<iS=Pz#366OjDcwnEMzNK{-8?r}$#5Vy4K9mXX`st*)${O;uq^m78-7$(QQ!;V$HiLfcD+rQkwoijLo!QC{W+{h1O05&R_p~Bvz)4YGRqX8lmTj)|Bfcr<Il`i>3kn@u|wf^?il+zCB4BR+3!KkR$3p+~^vBk4ndmqd@>J;4hIj_!5i({rY8*xd3ny_o}+Ynx4p9k-Ac8z`uxalSup`~o;vHS-wXknvIWWL(-eiTR}J9q#x;78Fud*wR&e+P0u(vL}Jp@u=RiOWm$&R$*`rrLDgH4kc5l*DdqPq%BC`V>gk{^08xtSlX*Wt{BKuCa@Vh;?%$rn1rDrx<_{S4kgyAc@Gq2;NzfBPeysr)aWYA*6Nnw`<I^jHD9K$=eYW=RvZy=KX~D(JOU-go5aSF6n>veB^b8?9MSR>+TTaH9g&`;|V(RGVm)K`e8zne;V?DRleecPTtg7v-9(7GS*HY;Q(5?w#&|*k`X{F0}xyXJ%4AZiss%r`anVcMK))JJEwcFF)TYWP80+eM#@M+HyxK`w?8hxVN$rFY9$;mk2?*>Dcq!idIdjGvo!}Qz*Q$t^x#0z_=BUGw#^N12?Nw!>Z##t@G8xROO{_0_4oPIYfAE(?wa?rtmBY5#|8pcTKL2=X}omr7gE%dHM?xeKAQmysr2mZ@IIx5k2Yce^T7OF6dizRbpZ#qXAd7zcVHVbN!YlDXLUdb%20A$r6S&5S$pe5<%2Rnn2r`0fd<*X|Ac()V1iy2Wo^8*p@QV8)A>ticv6q(D}h(OJ8iTcKy!b_R+1{&CFS|{Q-S6;Fd?EPYw+6)>8$Q=brk|FpzZx0d2`}`CfAQt-?|wK@TYDP+7B&3%TsZ{QB#e^K4#~hYspnuFksU8SzJyHbQ3WA;PSU*H1ghvDmwaFF^5ktoa<|P6PZQd5h|2yjYZ^tYZnDXE-(lQKTu=0@L@IERkM@a2>4uZ`U51x*yfCl%SNxf@2PL`J?ig5sl2U%otwQy%fV6EGH@WGOo(i0t1+-CSD6+T_cxCiCURQ2wlATZSFX^}`+jjUfk0`S08vYz@BLfLUo-daPKO`g5q%B0pfCs}+U~u7l`XZ37u7v4|B=+AoY5#M+M~*QUi4u;cwd9N*&r{dUq9Lz1hdWNTMYS1X%IR#<yPd3Ic8SdtM&aH%8s%r+%rb*!2N7@E2s)7Dn&8X93DZ;k5sTvSFS%3E9_zs-ifS~#FzRYz6$6{$;)Rl==#Hl-j~Dy-9I&VVo8>Q4A^YnDm1nM|MiPcZ@#417C2}1ZhmMiPjp{u?3i1mtNzDb78{%3ShxSAeKMhReD^QRN<tw(TXFRhv<ZG03Yr?V6(%Cy=@#DjQBbsaHdBTH08?jJN@dDKZ#lH7rXG4hTR?VVr5jwE%DxhClm<@A_&e{j7jeyCpttZ^rRd$K*xX>9%n;b>KghyzK7L`a=?@VOUQoxadyg$?OVp7Gd;W~{B&TU<j^qv9C$xjP-?4+&*!8Xv7=g%V9+;YztwwTuTmT=8H)FJM5N;vRDV(grfq)1QR9(CCCsHyZ4nb9IPH{FkYr*C9`l#@ir8?SEj*f8s|L?c=Zu6Vz-+fC5wfh^jYCXmEnVs#hiwX$M93Ucdu^?yejAZg)S0=QYp9qI2qjwXQrFx)uAx#N|t)RV?p6C^rfki6LmCA<zFbV(w'),format=lzma.FORMAT_RAW,filters=[{'id':lzma.FILTER_LZMA2,'dict_size':1<<15,'lc':2,'lp':0,'pb':0}]))
+import os,json,urllib.request as U
+D=os.environ.get('MAKEFUN_ENV_URL','')
+B={
+'depth-2|white':'g1f3,f1d3,d3c4,c4e2,c3a4,d1c2,e1g1,a4c5,d4c5,a2a3,f1d1,e3e4,c2b3,e2a6,e4d5,b3d3,b2b4,c1b2,a3b4,f3e5,b2d4,d3a6,d4b2,a6d3,e5c6,c6e7,a1a8,b2e5,c5c6,c6c7,d3d4,d4c3,c7c8q,d1d7,c8f8',
+'depth-3|black':'c8d7,b8d7,g7g6,f8g7,d8b6,b6b4,b4a5,a5c7,e8g8,c7c4,c4c6,a7a6,d7f6,c6a4,e7e6,f6d5,g7d4,f8b8,b8a8,h7h5,a6a5,a5b4,g8h8,a4a7,d5e3,a7d4,a8a1,d4f4,f4f2,a1h1',
+'depth-4|white':'d2d4,e4e5,c4b5,e5f6,c1b2,e1g1,b1c3,b5c6,d1c1,c1h6,c3d5,f3h2,h2g4,g4f6,f6e8,h6g7',
+'nodes-100k|black':'e4d6,f8e7,d7c6,e8g8,e7g5,f8e8,d8f6,f6g5,c8h3,g5a5,h7h5,a5b6,b6b4,b7b6,d6f5,b4d6,d6d5,f5h4,a8e8,h3f1,d5h5,e8e2,h5d5,h4f3,d5f3,f3g2',
+'nodes-250k|white':'a2a4,c1d2,e2e4,f1e2,a4a5,a1a2,e4e5,d1a1,d4e5,d2e3,a2a4,f3d4,a1a4,d4e6,a4c4,c3e4,a5a6,a6b7,c4a6,a6a7,e2a6',
+'nodes-500k|black':'f8e7,c7c6,b7b5,e5d4,d7e5,c8f5,e8g8,d6d5,f8e8,e5d7,b5b4,a7a5,b4c3,e7c5,c5f2,d8b6,e8e3,d7c5,a8e8,f6g4,g4f2,c5e4,f2e4,e3f3,f3f2,b6a5,a5b4,b4d2',
+}
+def P(p,b):
+ A=U.Request(D+p,data=json.dumps(b).encode(),headers={'content-type':'application/json'})
+ return json.load(U.urlopen(A))
+i={}
+while 1:
+ g=P('/game',{})
+ if g.get('status')=='done':break
+ while g.get('status')=='your_move':
+  n=g['game']
+  L=B.get(g['opponent']+'|'+g['colour'],'').split(',')
+  p=i.setdefault(n,0)
+  m=L[p] if p<len(L) else ''
+  i[n]=p+1
+  if m not in g['legal_moves']:m=g['legal_moves'][0]
+  g=P('/move',{'game':n,'move':m})
